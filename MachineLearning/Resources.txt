@@ -1,0 +1,13 @@
+This is a document of where to look to start learning how to use machine learning.
+
+Start learning to use ML: I reccomend following this tutorial. Will take around 1-3 months, but it goes in depth on how to use 
+different parts of an NN or a CNN and such. 
+http://d2l.ai/
+
+Using ML for Accelerators: This is a good overview of all the current topics of machine learning for accelerators. 
+https://slaclab.github.io/USPAS_ML/
+
+Using tensorflow vs pytorch:
+tensorflow: easier to learn and fast to implement simple concepts. Hides a bit of stuff to make things high level.
+pytorch: what most researcher uses and eiser to make more complicated and custom models. Higher learning curve, but it is 
+easier to understand how everyting works since it makes you do more things. 
