@@ -1,0 +1,7 @@
+This is a document of useful resources to start learning to use python for research
+
+Numpy:
+https://numpy.org/learn/
+
+Pandas cheat sheet:
+https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
